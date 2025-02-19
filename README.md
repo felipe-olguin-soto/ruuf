@@ -16,7 +16,7 @@ La api `ruuf` es una aplicación que calcula la cantidad de paneles solares que 
     ```
 3. Instala las dependencias:
     ```sh
-    go mod download
+    go mod tidy && go mod download
     ```
 
 ## Uso
