@@ -72,7 +72,7 @@ Content-Type: application/json
 ```
 
 Ejemplo de respuesta
-```
+```json
 {
     "panels_count": {
         "standard": 50,
